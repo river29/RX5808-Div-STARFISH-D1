@@ -1,18 +1,20 @@
-# RX5808-Div-Model
+# Modèle RX5808-Div
 
-Skyzone_04x文件夹下适用于Skyzone_04系列眼镜：
 
-提供源文件和打印文件，大家可自行更改
+Dossier Skyzone_04x pour les lunettes de la série Skyzone_04 :
+
+Fournissez les fichiers sources et les fichiers d'impression, vous pouvez les modifier vous-même
+
 
 ![Skyzone_04x_Model](https://user-images.githubusercontent.com/66466560/183940562-b877ccec-e752-47b3-938a-c5f64f1a514a.png)
 
-Fatshark_Hdo文件夹下模型由网友(B站 DP团队)贡献：
+Les modèles dans le dossier Fatshark_Hdo sont fournis par des internautes (équipe DP de la station B) :
 
-材料 ：光固化和尼龙烧结（耐温高于65度）， PLA PETG 等材料都可以
+Matériaux : Photopolymérisation et frittage de nylon (résistance à la température supérieure à 65 degrés), PLA PETG et autres matériaux sont acceptables
 
-FDM打印机在打印过程中不需要开启支撑，层高0.1 ，喷嘴直径不能大于0.4mm
+Les imprimantes FDM n'ont pas besoin d'ouvrir les supports pendant l'impression, la hauteur de couche est de 0,1 et le diamètre de la buse ne peut pas être supérieur à 0,4 mm
 
-风扇版本为1504 风扇
+La version du ventilateur est le ventilateur 1504
 
 ![image](https://user-images.githubusercontent.com/66466560/184098248-0e138287-95ae-4485-8729-0a6c8059df8b.png) ![image](https://user-images.githubusercontent.com/66466560/184097882-8b70ea03-84a9-41f1-b333-2558fd38a662.png)
 
@@ -20,3 +22,21 @@ FDM打印机在打印过程中不需要开启支撑，层高0.1 ，喷嘴直径�
 
 
 
+Modèle RX5808-Div
+Dossier Skyzone_04x pour les lunettes de la série Skyzone_04 :
+
+Fournissez les fichiers sources et les fichiers d'impression, vous pouvez les modifier vous-même
+
+Skyzone_04x_Modèle
+
+Les modèles dans le dossier Fatshark_Hdo sont fournis par des internautes (équipe DP de la station B) :
+
+Matériaux : Photopolymérisation et frittage de nylon (résistance à la température supérieure à 65 degrés), PLA PETG et autres matériaux sont acceptables
+
+Les imprimantes FDM n'ont pas besoin d'ouvrir les supports pendant l'impression, la hauteur de couche est de 0,1 et le diamètre de la buse ne peut pas être supérieur à 0,4 mm
+
+La version du ventilateur est le ventilateur 1504
+
+image image
+
+image
