@@ -92,7 +92,7 @@ Il ne devrait pas y avoir de problème avec le panneau inférieur.
 
 La connexion USB vers TTL et la connexion croisée TX, RX de la carte supérieure sont illustrées ci-dessous :
 
-
+![usb_ttl](https://image.lceda.cn/pullimage/6z5s5KOz53Rm29p0uOZB4Q75d7L4GRO3XaQvNiGS.jpeg)
 
 ### 3.3 Télécharger le micrologiciel
 
