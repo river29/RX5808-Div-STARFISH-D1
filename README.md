@@ -44,6 +44,8 @@ Adresse open source du matériel : https://oshwhub.com/ftps/rx5808-div
 ## 1. Conception d'interface basée sur LVGL
 Pour une vidéo de démonstration, veuillez consulter : https://www.bilibili.com/video/BV1yr4y1371b
 
+![ui](https://user-images.githubusercontent.com/66466560/218503938-571cd1fa-2c89-4279-a6aa-281c7fcf8234.jpeg)
+
 
 
 ### 1) Sur l'interface principale, appuyez longuement sur le bouton OK pour verrouiller/déverrouiller le canal manuel, et appuyez brièvement pour accéder au menu ; une fois déverrouillé, appuyez vers le haut, le bas, la gauche et la droite pour régler la fréquence.
