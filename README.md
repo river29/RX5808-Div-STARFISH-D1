@@ -79,7 +79,7 @@ Voir la vidéo de démonstration : https://www.bilibili.com/video/BV1ya411g78U q
 
 Remarque : la fonction OSD n'est pas prise en charge sur le matériel d'origine : gpio25 doit être connecté à la vidéo (sortie vidéo).
 
-
+![osd_jump_gpio25](https://image.lceda.cn/pullimage/Gim6EXqRcoao7A0nqf1U6u0KMaxCJblwIdWWs9qr.jpeg)
 
 ## 3. Tutoriel
 ### 3.1 Préparez le matériel complet, y compris les planches supérieures et inférieures
