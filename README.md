@@ -74,6 +74,8 @@ La fonction OSD est ajoutée par Linmianbao (Bilibili ID), en mode non superpos�
 Voir la vidéo de démonstration : https://www.bilibili.com/video/BV1ya411g78U qui est entièrement synchronisée avec l'interface utilisateur du récepteur.
 
 
+![osd](https://user-images.githubusercontent.com/66466560/218504602-102e7fe0-b935-48ca-be9e-f459200034c8.jpg)
+
 
 Remarque : la fonction OSD n'est pas prise en charge sur le matériel d'origine : gpio25 doit être connecté à la vidéo (sortie vidéo).
 
